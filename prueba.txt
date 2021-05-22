@@ -1,0 +1,17 @@
+r1:int, var2:int) : bool
+    resultado:int
+    %sfdsfs
+    if var1 < juan 
+
+        real:char
+
+        if naa < 10
+            temp1:int
+            temp2:char
+            
+            return
+        end
+
+        return 
+
+    end
